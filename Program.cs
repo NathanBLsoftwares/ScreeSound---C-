@@ -20,7 +20,7 @@ void ExibirMensagem()
     Console.WriteLine(mensagem);
     Console.WriteLine("********************************");
 }
-
+//Sempre vai aparecer duplicado
 ExibirMensagem();
 ExibirOpcoesDoMenu();
 
